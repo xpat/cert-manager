@@ -37,14 +37,10 @@ require (
 	github.com/go-openapi/swag v0.19.0 // indirect
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
 	github.com/gocql/gocql v0.0.0-20190402132108-0e1d5de854df // indirect
-	github.com/gogo/protobuf v1.2.0 // indirect
 	github.com/golang/protobuf v1.3.1 // indirect
-	github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db // indirect
 	github.com/google/btree v1.0.0 // indirect
-	github.com/google/go-cmp v0.3.0 // indirect
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-querystring v1.0.0 // indirect
-	github.com/gorilla/context v1.1.1 // indirect
 	github.com/gorilla/mux v1.6.2
 	github.com/gotestyourself/gotestyourself v2.2.0+incompatible // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.1 // indirect
@@ -93,7 +89,7 @@ require (
 	github.com/tent/http-link-go v0.0.0-20130702225549-ac974c61c2f9 // indirect
 	go.uber.org/zap v1.9.1 // indirect
 	golang.org/x/crypto v0.0.0-20190426145343-a29dc8fdc734
-	golang.org/x/net v0.0.0-20190502183928-7f726cade0ab
+	golang.org/x/net v0.0.0-20190812203447-cdfb69ac37fc
 	golang.org/x/oauth2 v0.0.0-20190402181905-9f3314589c9a
 	golang.org/x/sys v0.0.0-20190502175342-a43fa875dd82 // indirect
 	golang.org/x/text v0.3.2 // indirect
@@ -107,16 +103,17 @@ require (
 	gopkg.in/ory-am/dockertest.v3 v3.3.4 // indirect
 	k8s.io/api v0.0.0-20190413052509-3cc1b3fb6d0f
 	k8s.io/apiextensions-apiserver v0.0.0-20190111034747-7d26de67f177
-	k8s.io/apimachinery v0.0.0-20190413052414-40a3f73b0fa2
+	k8s.io/apimachinery v0.15.7
 	k8s.io/apiserver v0.0.0-20190413053200-5b6ebd80335e
 	k8s.io/client-go v0.0.0-20190413052642-108c485f896e
 	k8s.io/code-generator v0.0.0-20181117043124-c2090bec4d9b
 	k8s.io/component-base v0.0.0-20190413053003-a7e0d79a8811
 	k8s.io/gengo v0.0.0-20190327210449-e17681d19d3a // indirect
-	k8s.io/klog v0.2.0
+	k8s.io/klog v0.3.1
 	k8s.io/kube-aggregator v0.0.0-20190222095010-0b78038fe9e5
 	k8s.io/kube-openapi v0.0.0-20190228160746-b3a7cee44a30
 	k8s.io/utils v0.0.0-20190221042446-c2654d5206da
+	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
 	sigs.k8s.io/controller-runtime v0.0.0-20190222182021-68ae79ea094a
 	sigs.k8s.io/testing_frameworks v0.1.1
 )
